@@ -6,6 +6,7 @@
   padding: 0;
   margin: 0;
   box-sizing: border-box;
+  -webkit-box-sizing: border-box;
   -webkit-tap-highlight-color: transparent;
 }
 
@@ -63,7 +64,7 @@ iframe {
 }
 
 .container {
-  max-width: 1660px;
+  max-width: 1440px;
   margin: auto;
 }
 
